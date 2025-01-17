@@ -1,0 +1,1 @@
+This project creates a running LED effect by shifting a single bit across the 8-bit port, lighting up LEDs one by one. The sequence repeats continuously, creating a "moving" light pattern on the connected LEDs.
